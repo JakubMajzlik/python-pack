@@ -1,6 +1,6 @@
 {
     "name": "python-pack",
-    "displayName": "python-pack",
+    "displayName": "Python pack",
     "description": "Extensions for python dev",
     "version": "0.0.1",
     "engines": {
@@ -13,6 +13,6 @@
         "donjayamanne.python-environment-manager", 
         "ms-python.python", 
         "ms-python.vscode-pylance", 
-        "VisualStudioExptTeam.vscodeintellicode", 
+        "VisualStudioExptTeam.vscodeintellicode"
     ]
 }
